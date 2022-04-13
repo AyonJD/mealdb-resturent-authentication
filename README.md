@@ -4,6 +4,8 @@
 - MealDB API
 - JavaScript.
 - React.
+- SwiperJS.
+- React Hook Form.
 - Tailwind.
 - Firebase.
 - React Firebase Hooks
